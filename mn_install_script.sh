@@ -120,7 +120,7 @@ externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
 #Nodes
 addnode=51.77.213.129:15766
-addnode=51.178.51.93:157667
+addnode=51.178.51.93:15766
 #Unblock Nodes
 banscore=10000
 bantime=60
